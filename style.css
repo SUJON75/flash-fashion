@@ -20,3 +20,36 @@
     cursor: pointer;
 
 }
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px
+    
+    
+}
+
+.cat1{
+    background-color: orange;
+    padding: 10px 30pz;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgrey;
+    
+}
+.cat2{
+    background-color: orchid;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.cat3{
+    background-color: blue;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 150px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
